@@ -179,3 +179,4 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+.vs/System.Web.Mvc.Expressions/v15
